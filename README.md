@@ -1,7 +1,7 @@
 # XaosLines
 Image disotortion plugin made with OpenFrameworks
 
-<img src = "images/Screenshot.png" width =800>     <img src = "images/SineLines_2.png" width =300 height=300>
+<img src = "images/Screenshot.png" width =800>    
 
 XaosLines is a standalone program that takes the camera, or a still image, as an imput, and distorts it vía a points that move in
 random directions. It has 3 parameters, the size of the points, the amount of points in the screen and the velocity.
