@@ -24,7 +24,8 @@ THINGS YOU CANT DO:
 -Resize the window  
 -Only for the windows operating system
 
-Also all the source code is in the folder "Source Code".  
+Also all the source code can be found in this link: https://drive.google.com/drive/folders/15VhmO-V8PLqUsQW6a96WzI2-ryZy1XeT?usp=sharing
+
 I used this addons:  
 ofxGui.h  
 ofxSpout2Sender.h  
