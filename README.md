@@ -19,4 +19,6 @@ Sput Control website: https://spout.zeal.co/
 This program was made for vjs, in live enviroments such as band shows, partys or gatherigs where you
 need to distor the image that comes from a live feed. 
 
+THINGS YOU CANT DO: -Minimize the window (it will crash the program)
+
 Made by Alejo Cortiñaz
