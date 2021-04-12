@@ -1,0 +1,11 @@
+﻿  main.cpp
+videoInputD.lib(videoInput.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+     Creating library bin\XaosLines_debug.lib and object bin\XaosLines_debug.exp
+  XaosLines.vcxproj -> E:\Programas\openFRAMEWORKS\of_v0.11.0_vs2017_release\apps\myApps\XaosLines\bin\XaosLines_debug.exe
+  
+  	                   2	E:\Programas\openFRAMEWORKS\of_v0.11.0_vs2017_release\libs\fmodex\lib\vs\Win32\
+  	  *Archivo EXTRA		 6018560	E:\Programas\openFRAMEWORKS\of_v0.11.0_vs2017_release\apps\myApps\XaosLines\bin\FreeImage.dll
+  
+  	                   1	E:\Programas\openFRAMEWORKS\of_v0.11.0_vs2017_release\libs\FreeImage\lib\vs\Win32\
+  	  *Archivo EXTRA		 1266176	E:\Programas\openFRAMEWORKS\of_v0.11.0_vs2017_release\apps\myApps\XaosLines\bin\fmodex.dll
+  	  *Archivo EXTRA		 1312768	E:\Programas\openFRAMEWORKS\of_v0.11.0_vs2017_release\apps\myApps\XaosLines\bin\fmodexL.dll
