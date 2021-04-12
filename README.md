@@ -21,10 +21,10 @@ need to distor the image that comes from a live feed.
 
 THINGS YOU CANT DO: -Minimize the window (it will crash the program)
 
-Also all the sourse code is in the folder "Sourse Code"
-it uses:
-ofxGui.h
-ofxSpout2Sender.h
-ofxXmlSettings.h
+Also all the source code is in the folder "Source Code".  
+I used this addons:  
+ofxGui.h  
+ofxSpout2Sender.h  
+ofxXmlSettings.h  
 
 Made by Alejo Cortiñaz
