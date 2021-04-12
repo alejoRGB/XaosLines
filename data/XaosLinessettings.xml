@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<XaosLines>
+	<Size>2.715</Size>
+	<Velocidad>1<Velocidad>2</Velocidad>
+	</Velocidad>
+	<Trails>1</Trails>
+	<Send_via_Spout>1</Send_via_Spout>
+	<cantidad>600</cantidad>
+	<Xaos>1</Xaos>
+	<Camera_or_Picture>1</Camera_or_Picture>
+	<Amount>6250</Amount>
+	<Velocity>5</Velocity>
+	<Save_Presets />
+	<Select_Presets />
+</XaosLines>
