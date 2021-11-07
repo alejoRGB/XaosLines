@@ -32,3 +32,8 @@ ofxSpout2Sender.h
 ofxXmlSettings.h  
 
 Made by Alejo Cortiñaz
+
+
+Tareas:
+-ofGui: agregar boton de screeshot y agregar boton de empezar y terminar de grabar (puede ser el mismo)
+
